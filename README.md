@@ -1,5 +1,7 @@
 # MultivariateTimeSeriesWithAuxiliaryData
 
+This is the implementaion of methods proposed in the research mentioned below:
+https://www.researchgate.net/publication/336059621_Investigating_Auxiliary_Information_in_Multivariate_Time_Series_Forecasting_Models 
 
 # Abstract
 
